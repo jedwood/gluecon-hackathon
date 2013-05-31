@@ -3,11 +3,11 @@ Behind the scenes of "Siren"
 
 >a vehicle location hack powered by GM, Nexmo, and Cloud9
 
-I'm a sucker for hackathons, at least the true "hack"-athons, which are different than the "I'm really here to pitch my latest startup idea so let me walk you through the deck"-athons that have become common. Thankfully, the Gluecon event was definitely the former. There's something refershing about the quick and dirty prototyping spirit, and the lack of concern for security, scalability, maintainable code, or commercial viability. I've already confessed that (I don't like writing tests)[http://blog.strongloop.com/how-to-test-an-api-with-node-js/], and a hackathon is the perfect excuse to skip all that.
+I'm a sucker for hackathons, at least the true "hack"-athons, which are different than the "I'm really here to pitch my latest startup idea so let me walk you through the deck"-athons that have become common. Thankfully, the Gluecon event was definitely the former. There's something refershing about the quick and dirty prototyping spirit, and the lack of concern for security, scalability, maintainable code, or commercial viability. I've already confessed that [I don't like writing tests](http://blog.strongloop.com/how-to-test-an-api-with-node-js/), and a hackathon is the perfect excuse to skip all that.
 
 Meeting new people, trying out new technologies, and thriving on a bit of friendly competition are all great reasons to participate. And of courses the prizes don't hurt. :)
 
-Last week at (Gluecon)[http://www.gluecon.com/2013/] I teamed up with native Coloradoan (Aaron Nielsen)[http://www.linkedin.com/in/aaronmnielsen/], whom I met the first evening.
+Last week at [Gluecon](http://www.gluecon.com/2013/) I teamed up with native Coloradoan [Aaron Nielsen](http://www.linkedin.com/in/aaronmnielsen/), whom I met the first evening.
 
 ## Siren
 
