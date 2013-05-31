@@ -13,7 +13,7 @@ Last week at (Gluecon)[http://www.gluecon.com/2013/] I teamed up with native Col
 
 Our hack was a little bit like [Find My Friends](http://www.apple.com/icloud/features/find-my-friends.html) for your car. We built a simple map-based interface that allows you to set two kinds of triggers: speed limits and geo-fences. With the soon-to-be-released [GM Remote API](https://developer.gm.com/apis/remote), you can poll for realtime telemetry data and find out where your vehicle is, how fast its traveling, and in what direction.
 
-![Screenshot of map with truck]('img/siren-screenshot.png')
+![Screenshot of map with truck](img/siren-screenshot.png)
 
 ### Cloud9
 
@@ -21,7 +21,7 @@ Neither of us had done much with [Cloud9 IDE](https://c9.io) before, so we thoug
 
 The added bonus is that our code was already "deployed."
 
-![Screenshot of Cloud 9 IDE Dashboard]('img/cloud-9-dashboard.png')
+![Screenshot of Cloud 9 IDE Dashboard](img/cloud-9-dashboard.png)
 
 ### GM
 
